@@ -1,0 +1,22 @@
+{
+  "legacy": "https://islamicart.museumwnf.org/exhibitions/ISL/the_abbasids/",
+  "menuSecondColumnFrom": 7,
+  "curators": [
+    {
+      "partner": "ee0a71f8-dc12-5d5d-b02a-4402969e8274",
+      "logo": "legacy/TN-13.gif",
+      "space": 35
+    },
+    {
+      "partner": "f0c1b6b9-8198-5a97-9aea-8ebedfa90ca3",
+      "logo": "legacy/ET-13.gif",
+      "space": 35
+    },
+    {
+      "partner": "d9f6c12d-ca03-5d6e-b33c-c1a37daec1fa",
+      "logo": "legacy/GL-13.gif",
+      "space": 30
+    }
+  ],
+  "maps": 1
+}
