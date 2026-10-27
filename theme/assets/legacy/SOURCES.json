@@ -1,0 +1,137 @@
+{
+  "about": "The frame this website takes from legacy Discover Islamic Art's virtual exhibition The Abbasids (exhibitions/ISL/the_abbasids/), each file as legacy serves it, byte for byte; the curators' logos come from the exhibitions' shared sponsor_logo folder. tests/assets.test.js checks every file against its hash. Legacy drew no Swedish map (map_se.jpg): the map window shows none in Swedish.",
+  "files": {
+    "theme/assets/legacy/arrow_inner_black.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_abbasids/images/arrow_inner_black.gif",
+      "sha256": "a969e5e62fe3c75dcb4e05ef1ca4e38f67a528916db802c229511b44567bd87a"
+    },
+    "theme/assets/legacy/bg_fading_left.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_abbasids/images/bg_fading_left.gif",
+      "sha256": "2866d775abcdc9590a076ed2508549b4ab6d45802a766e5dfb27bd7bdb39f62f"
+    },
+    "theme/assets/legacy/bg_fading_right.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_abbasids/images/bg_fading_right.gif",
+      "sha256": "e40932045546d63259a2caed92f6b9d03c9c1810a6aa17d767a080c6d7fe0499"
+    },
+    "theme/assets/legacy/ET-13.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/sponsor_logo/ET-13.gif",
+      "sha256": "160591e7a991ad24208fd4e1e2117c64a4d53ee61f20c0558724158281797bf2"
+    },
+    "theme/assets/legacy/exhibition_bg_ar.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_abbasids/images/exhibition_bg_ar.jpg",
+      "sha256": "f4368ae40902acde090ea2e9bd3367272a9e6830cdc91dfbdb1d7fc4d44a2756"
+    },
+    "theme/assets/legacy/exhibition_bg.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_abbasids/images/exhibition_bg.jpg",
+      "sha256": "24f7de8ca763b6292e0d5315969c9252ad15ca483afb815646ca931ba72d317d"
+    },
+    "theme/assets/legacy/GL-13.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/sponsor_logo/GL-13.gif",
+      "sha256": "1d2d73d626c663b2313f137c5cb6477a9497ca64449d3d1ebe7de9b7f164dda4"
+    },
+    "theme/assets/legacy/home_bg_ar.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_abbasids/images/home_bg_ar.jpg",
+      "sha256": "cebc982aee2da9a29d90e03a583a731ea82f54820ae6acca94ac93f7d85fe0f7"
+    },
+    "theme/assets/legacy/home_bg.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_abbasids/images/home_bg.jpg",
+      "sha256": "e33ebf340b7e4de3a2e4cc6f287275c0bdd44249ad441c78a549840fc00b9ffa"
+    },
+    "theme/assets/legacy/ico_item_selected.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_abbasids/images/ico_item_selected.gif",
+      "sha256": "8e4e35eebb1dda3a1495a2dc7a9d1a4611d9118f3f683a269823da701989feb5"
+    },
+    "theme/assets/legacy/ico_item.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_abbasids/images/ico_item.gif",
+      "sha256": "0b630172707e2ed687751dd70acb096ef905a3ee56421c650c227520e10030c8"
+    },
+    "theme/assets/legacy/intro_bg_ar.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_abbasids/images/intro_bg_ar.jpg",
+      "sha256": "e360ede3fd982b6e39f6f6cc23b8b09a4ef787199f7b8acd70e19578f72fc995"
+    },
+    "theme/assets/legacy/intro_bg.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_abbasids/images/intro_bg.jpg",
+      "sha256": "4a1b72eb94957b14a42df6a4f6af98fb2ae11dc0a38c39f3bd6f6d2d51365a5f"
+    },
+    "theme/assets/legacy/intro_map_thumb.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_abbasids/images/intro_map_thumb.jpg",
+      "sha256": "918f062e09873a710370345673d0992739c26695664ceac2777bced493589758"
+    },
+    "theme/assets/legacy/logo_ar.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_abbasids/images/logo_ar.gif",
+      "sha256": "cf6bb9baca20e0fef1e2e961ba82040942eeb138d64836921f55a9be04b96d15"
+    },
+    "theme/assets/legacy/logo_de.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_abbasids/images/logo_de.gif",
+      "sha256": "bdae3a89fb3af592bdc4280a83170bf23ef9c622324e52f5c2eb07eb9b62c6d9"
+    },
+    "theme/assets/legacy/logo_en.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_abbasids/images/logo_en.gif",
+      "sha256": "6072506cc6f417bfe8657d4dfebd59933877be85b12d3c24fbf32b8a7924d7ee"
+    },
+    "theme/assets/legacy/logo_es.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_abbasids/images/logo_es.gif",
+      "sha256": "044653c2ac11299b2f95825f504ab9f1801f7d43dce6fc69093fe761f19f7376"
+    },
+    "theme/assets/legacy/logo_fr.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_abbasids/images/logo_fr.gif",
+      "sha256": "49d64e8ea182d58f911970fffb7e28877c3d60ce2c58abad1e06db55f2c5a9f6"
+    },
+    "theme/assets/legacy/logo_it.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_abbasids/images/logo_it.gif",
+      "sha256": "301909d956a1689f1eec1ee5bdfc8dad97614aa4a3348632cee150ce8e770449"
+    },
+    "theme/assets/legacy/logo_pt.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_abbasids/images/logo_pt.gif",
+      "sha256": "3e1e6894256a79117d60d5da6c907625591f33334ad8b2016b346462c073b32f"
+    },
+    "theme/assets/legacy/logo_se.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_abbasids/images/logo_se.gif",
+      "sha256": "b7f99b6269e5682d8554c42f78410fc95c146a60c79d3ce55d55426c880b717e"
+    },
+    "theme/assets/legacy/logo_tr.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_abbasids/images/logo_tr.gif",
+      "sha256": "e76fad35af8d9a5f18795bedeb9236ca021b59f5b5fb76e616e522c0d055ebf6"
+    },
+    "theme/assets/legacy/map_ar.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_abbasids/images/map_ar.jpg",
+      "sha256": "60d602029ed2762f95c42e2b7fbd98373ea4753c300409a133e1914c5fc2d34d"
+    },
+    "theme/assets/legacy/map_de.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_abbasids/images/map_de.jpg",
+      "sha256": "eaa0ee600cacb373a7313fc91202d63a086cf024a69755af206e5f8a6a8fb026"
+    },
+    "theme/assets/legacy/map_en.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_abbasids/images/map_en.jpg",
+      "sha256": "8681b236002b8980cc828233734be368e28c7ffd712ffda3a295c37569235d22"
+    },
+    "theme/assets/legacy/map_es.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_abbasids/images/map_es.jpg",
+      "sha256": "8c3dd7e5b0cb2fd6422d69ec3703e1b26f73b6b8a45f590e68627bfa07ea2b19"
+    },
+    "theme/assets/legacy/map_fr.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_abbasids/images/map_fr.jpg",
+      "sha256": "bcb6e5f103b8a9fd67ef69ec6c13044d8af19a4e5ff1aab88d7a0f31e432bbe3"
+    },
+    "theme/assets/legacy/map_it.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_abbasids/images/map_it.jpg",
+      "sha256": "9bb3c86d59ad71c524cfdbe5c37652fc3d196a0f4ce37b66499e5547b917ed8e"
+    },
+    "theme/assets/legacy/map_pt.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_abbasids/images/map_pt.jpg",
+      "sha256": "508d697cecde6cf9d0531c53a2137345462bc0044a9c47df317d8b9cac074470"
+    },
+    "theme/assets/legacy/map_tr.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_abbasids/images/map_tr.jpg",
+      "sha256": "13b3061a492497603ca9fe23228ca123ba02699fbbabb4c9082f1940332a778b"
+    },
+    "theme/assets/legacy/print_dark.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/the_abbasids/images/print_dark.gif",
+      "sha256": "49894d52c06b6f8e1c29b0b3f82245bcd3f439108e4cd3a7c4f16360ed896742"
+    },
+    "theme/assets/legacy/TN-13.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/sponsor_logo/TN-13.gif",
+      "sha256": "0ef916bea662c215e1f0469064ba9e9012d9044352b14afc87287ba6e705fd66"
+    }
+  }
+}
