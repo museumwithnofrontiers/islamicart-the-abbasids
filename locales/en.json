@@ -1,13 +1,13 @@
 {
-  "__SITE_NAMESPACE__.identity.organisation": "Museum With No Frontiers",
-  "__SITE_NAMESPACE__.identity.title": "__DATASET__",
-  "__SITE_NAMESPACE__.identity.copyright": "© Museum With No Frontiers",
-  "__SITE_NAMESPACE__.home.intro": "Welcome to __DATASET__.",
-  "__SITE_NAMESPACE__.home.catalogueText": "Browse every item by country and date.",
-  "__SITE_NAMESPACE__.home.searchText": "Search the items by name, location, material or any other field.",
-  "__SITE_NAMESPACE__.home.itemOnDisplay": "Item on display",
-  "__SITE_NAMESPACE__.nav.catalogue": "Catalogue",
-  "__SITE_NAMESPACE__.nav.search": "Search",
-  "__SITE_NAMESPACE__.nav.about": "About",
-  "__SITE_NAMESPACE__.about.body": "This website is published by Museum With No Frontiers. Replace this text with what __DATASET__ is and who made it."
+  "abbasids.identity.organisation": "Museum With No Frontiers",
+  "abbasids.identity.title": "islamicart-the-abbasids",
+  "abbasids.identity.copyright": "© Museum With No Frontiers",
+  "abbasids.home.intro": "Welcome to islamicart-the-abbasids.",
+  "abbasids.home.catalogueText": "Browse every item by country and date.",
+  "abbasids.home.searchText": "Search the items by name, location, material or any other field.",
+  "abbasids.home.itemOnDisplay": "Item on display",
+  "abbasids.nav.catalogue": "Catalogue",
+  "abbasids.nav.search": "Search",
+  "abbasids.nav.about": "About",
+  "abbasids.about.body": "This website is published by Museum With No Frontiers. Replace this text with what islamicart-the-abbasids is and who made it."
 }
